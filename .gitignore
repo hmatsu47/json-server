@@ -5,3 +5,5 @@ lib
 node_modules
 public/output.css
 tmp
+dist
+deploy_package.zip
